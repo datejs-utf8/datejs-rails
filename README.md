@@ -11,7 +11,7 @@ and formatting.
 
 Add the following to your gemfile:
 
-    gem 'datejs-rails'
+    gem 'datejs-rails', github: 'datejs-utf8/datejs-rails'
 
 Add the following directive to your Javascript manifest file (application.js):
 
